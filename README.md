@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  Sou estudante de <b>Engenharia de Software</b> na <b>SENAI FATESG</b> e <b>mentor de robótica</b>,<br>
+  Sou estudante de <b>Engenharia de Software</b> na <b>SENAI FATESG</b> e <b>MENTOR DE ROBÓTICA</b>,<br>
   transformando conhecimento em projetos.
 </p>
 
