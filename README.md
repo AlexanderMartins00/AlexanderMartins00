@@ -1,80 +1,38 @@
-# 👨‍💻 Alexander Martins
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-**`Estudante de Engenharia de Software`**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+meu+nome+%C3%A9+Alexander+Martins;Seja+bem-vindo!+:%29" alt="Olá, meu nome é Alexander Martins" />
+</div>
 
-Olá, sou o Alexander! Estudo Engenharia de Software na **SENAI FATESG**, onde também atuo como **mentor de robótica**, orientando alunos e desenvolvendo projetos tecnológicos. Sou apaixonado por tecnologia e estou sempre em busca de aprender e evoluir na prática, transformando conhecimento em projetos.
+<p align="center">
+  Sou estudante de <b>Engenharia de Software</b> na <b>SENAI FATESG</b> e <b>mentor de robótica</b>,<br>
+  transformando conhecimento em projetos.
+</p>
 
+<hr>
+
+### Principais habilidades:
 <p align="left">
-    <a href="https://www.linkedin.com/in/alexander-martins-2161bb303/" target="_blank">
-        <img
-            alt="LinkedIn"
-            title="Conecte-se comigo no LinkedIn"
-            src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="mailto:alexander062006@gmail.com">
-        <img
-            alt="Gmail"
-            title="Envie um e-mail para alexander062006@gmail.com"
-            src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" alt="Java, Python e C++ (básico)" />
 </p>
 
----
-
-### 🤖 Linguagens e Tecnologias
-
+### Ferramentas:
 <p align="left">
-    <img
-        alt="Java"
-        title="Java"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    />
-    &nbsp;
-    <img
-        alt="Python"
-        title="Python"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    />
-    &nbsp;
-    <img
-        alt="C++"
-        title="C++ (básico)"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-    />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" alt="Git, GitHub, IntelliJ IDEA e VS Code" />
 </p>
 
----
-
-### 📊 Estatísticas
-
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=AlexanderMartins00&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    align="left"
-    alt="Top Linguagens"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMartins00&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+### Banco de dados e outros conhecimentos:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,linux&theme=dark" alt="MySQL e Linux" />
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+### Contato:
+<a href="https://www.linkedin.com/in/alexander-martins-2161bb303/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40px" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:alexander062006@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" title="alexander062006@gmail.com" width="40px" />
+</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
