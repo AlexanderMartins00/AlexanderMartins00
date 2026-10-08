@@ -5,7 +5,7 @@
 </div>
 
 ## Sobre:
-Sou estudante de Engenharia de Software no SENAI FATESG e mentor de robótica na própria instituição, orientando alunos e desenvolvendo projetos tecnológicos.<br><br>- 💻 Desenvolvedor em formação<br>- 🤖 Mentor de robótica<br>- 📚 Estudando atualmente HTML, CSS, JavaScript e TypeScript
+Sou estudante de Engenharia de Software no SENAI FATESG e MENTOR DE ROBÓTICA na própria instituição, orientando alunos e desenvolvendo projetos tecnológicos.<br><br>- 💻 Desenvolvedor em formação<br>- 🤖 Mentor de robótica<br>- 📚 Estudando atualmente HTML, CSS, JavaScript e TypeScript
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-martins-2161bb303/) [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexander062006@gmail.com)
