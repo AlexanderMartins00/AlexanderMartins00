@@ -1,38 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+# 🥸 Sobre mim:
+Sou estudante de Engenharia de Software na SENAI FATESG e mentor de robótica na própria instituição, orientando alunos e desenvolvendo projetos tecnológicos.<br><br>- 💻 Desenvolvedor em formação<br>- 🤖 Mentor de robótica, atuando com design CAD, manufatura CAM e impressão 3D<br>- 📚 Estudando atualmente HTML, CSS, JavaScript e TypeScript
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+meu+nome+%C3%A9+Alexander+Martins;Seja+bem-vindo!+:%29" alt="Olá, meu nome é Alexander Martins" />
-</div>
+## 🌐 Redes:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-martins-2161bb303/) [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexander062006@gmail.com)
 
-<p align="center">
-  Sou estudante de <b>Engenharia de Software</b> na <b>SENAI FATESG</b> e <b>MENTOR DE ROBÓTICA</b>,<br>
-  transformando conhecimento em projetos.
-</p>
+# 💻 Tecnologias:
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) ![AutodeskFusion360](https://img.shields.io/badge/Fusion%20360-000000?style=for-the-badge&logo=autodesk&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-000000?style=for-the-badge&logoColor=white)
 
-<hr>
-
-### Principais habilidades:
+# 📊 Estatísticas do GitHub:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" alt="Java, Python e C++ (básico)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderMartins00&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMartins00&hide_border=true&layout=compact&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=ffffff" width="45%" />
 </p>
 
-### Ferramentas:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" alt="Git, GitHub, IntelliJ IDEA e VS Code" />
-</p>
 
-### Banco de dados e outros conhecimentos:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,linux&theme=dark" alt="MySQL e Linux" />
-</p>
 
-### Contato:
-<a href="https://www.linkedin.com/in/alexander-martins-2161bb303/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40px" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:alexander062006@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" title="alexander062006@gmail.com" width="40px" />
-</a>
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
