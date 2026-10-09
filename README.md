@@ -19,8 +19,6 @@ Sou estudante de ENGENHARIA DE SOFTWARE na Faculdade Senai Fatesg e MENTOR DE RO
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMartins00&hide_border=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" width="45%" />
 </p>
 
-
-  a
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
