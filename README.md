@@ -15,12 +15,7 @@ Sou estudante de ENGENHARIA DE SOFTWARE na Faculdade Senai Fatesg e MENTOR DE RO
 
 ## 📊 Estatísticas do GitHub:
 <p align="left">
- <img
-  alt="GitHub Stats"
-  height="130"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=AlexanderMartins00&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000&include_all_commits=true"
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderMartins00&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=0" width="50%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AlexanderMartins00&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" width="45%" />
 </p>
 
